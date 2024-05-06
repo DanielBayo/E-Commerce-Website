@@ -1,1 +1,1 @@
-<img src="https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/Adventure_logo.png" alt="AdventureWorks" width="400"/>
+<img src="[https://github.com/DanielBayo/danielbayo.github.io/blob/main/Webpage%20screenshot.JPG" alt="Ecommerce" width="400"/>
